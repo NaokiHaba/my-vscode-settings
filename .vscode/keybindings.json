@@ -13,6 +13,14 @@
     "command": "github.copilot.git.generateCommitMessage"
   },
   {
+    "key": "ctrl+c",
+    "command": "git.commitStaged"
+  },
+  {
+    "key": "ctrl+p",
+    "command": "git.push"
+  },
+  {
     "key": "ctrl+;",
     "command": "workbench.action.terminal.focus",
     "when": "editorTextFocus"
