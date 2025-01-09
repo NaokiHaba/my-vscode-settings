@@ -5,14 +5,6 @@
     "command": "workbench.view.scm"
   },
   {
-    "key": "ctrl+c",
-    "command": "git.checkout"
-  },
-  {
-    "key": "ctrl+p",
-    "command": "git.push"
-  },
-  {
     "key": "ctrl+g",
     "command": "github.copilot.git.generateCommitMessage"
   },
