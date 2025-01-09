@@ -5,6 +5,10 @@
     "command": "workbench.view.scm"
   },
   {
+    "key": "shift+cmd+m",
+    "command": "workbench.action.focusActiveEditorGroup"
+  },
+  {
     "key": "ctrl+g",
     "command": "github.copilot.git.generateCommitMessage"
   },
@@ -27,5 +31,5 @@
     "key": "ctrl+k",
     "command": "selectPrevSuggestion",
     "when": "suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus"
-  }
+  },
 ]
