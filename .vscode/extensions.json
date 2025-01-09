@@ -15,7 +15,6 @@
     "github.vscode-github-actions",
     "github.vscode-pull-request-github",
     "golang.go",
-    "hashicorp.terraform",
     "ionutvmi.path-autocomplete",
     "johnsoncodehk.vscode-tsconfig-helper",
     "k--kato.intellij-idea-keybindings",
@@ -27,7 +26,6 @@
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
     "vitest.explorer",
-    "vsls-contrib.gistfs",
     "vue.volar",
     "xabikos.javascriptsnippets",
     "yoavbls.pretty-ts-errors"
